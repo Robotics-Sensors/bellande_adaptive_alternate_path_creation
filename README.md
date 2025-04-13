@@ -4,10 +4,10 @@
 - Use Bellande API's to get the result
 
 ## Bellande Learning
-- https://git.bellande-technologies.com/BAICVRI/bellande_learning_api
-- https://github.com/Artificial-Intelligence-Computer-Vision/bellande_learning_api
-- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center/bellande_learning_api
-- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/bellande_learning_api
+- https://git.bellande-technologies.com/BAICVRI/bellande_learning
+- https://github.com/Artificial-Intelligence-Computer-Vision/bellande_learning
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Inovations-Center/bellande_learning
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/bellande_learning
 
 ## Bellande Search Path
 - https://git.bellande-technologies.com/BRSRI/bellande_search_path
